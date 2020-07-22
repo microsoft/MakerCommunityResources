@@ -1,12 +1,12 @@
 # Maker Community Resources
 
-This repository contains resources for makers and their communities, including makerspaces. Have a request, let us know!
+This repository contains resources for makers and their communities, including makerspaces. Have a request? Open an issue or pull request! 
 
 # Contents
 
-Topic | Link | Level
+Topic | Link | Contents
 ------|------|------
-Resources for makerspaces | [Makerspaces](/makerspaces/)| Beginner
+Makerspace Resources | [Makerspaces](/Makerspaces/)| Accounting Tools
 
 
 # Contributing
