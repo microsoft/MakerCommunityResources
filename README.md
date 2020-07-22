@@ -1,6 +1,6 @@
 # Maker Community Resources
 
-This repository contains resources for maker communities, including makerspaces.
+This repository contains resources for makers and their communities, including makerspaces. Have a request, let us know!
 
 # Contents
 
