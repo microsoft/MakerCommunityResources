@@ -7,8 +7,8 @@ Makerspace Budget Template | [Budget](https://github.com/microsoft/MakerCommunit
 
 # More Information
 ## Makerspace Budget Template
-This Excel template provides a starting point for a simply monthly budget, including examples of typical makerspace revenue and expense models.
+This Excel template provides a starting point for a simple monthly budget, including examples of typical makerspace revenue and expense models.
 
 Download the template and modify to fit the needs of your makerspace.
 
-To learn more about how this budget was built and basic accounting tips and terminology, [check out this tutorial!]()
+To learn more about how this budget was built and basic accounting tips and terminology, [check out this tutorial!](https://www.instructables.com/id/Using-Excel-for-Makerspace-Budgets/)
