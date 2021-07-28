@@ -6,7 +6,7 @@ This repository contains resources for makers and their communities, including m
 
 Topic | Link | Contents
 ------|------|------
-Makerspace Resources | [Makerspaces](/Makerspaces/)| Accounting Tools
+Makerspace Resources | [Makerspaces](/Makerspaces/)| Accounting and Equipment Tools
 
 
 # Contributing
